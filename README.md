@@ -21,8 +21,10 @@ user    0m7.020s
 sys     0m1.770s
 ```
 
+Or
+
 ```bash
-time go build .
+$time go build .
 
 real    0m0.242s
 user    0m0.387s
